@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/utn-devops-app":{"guestpath":"/var/www/utn-devops-app","hostpath":"C:/Users/Nicolas France/UTN-DevOps-Propio/utn-devops-app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Nicolas France/UTN-DevOps-Propio/utn-devops","disabled":false,"__vagrantfile":true}}}
